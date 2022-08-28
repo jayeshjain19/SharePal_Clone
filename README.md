@@ -6,9 +6,9 @@ For Clone WebSite Click on this link:  https://jayeshjain19.github.io/SharePal_C
 
 Used Libraries to create this clone:
 
-1.Styled Components: Used to avoid external CSS File.And Create CSS directly in JSX file.
-2.Material-UI: Used to add icons in the clone webite
-3.ImgBB : This is not a library. I used this website to host image and create image hosting link.
+1.Styled Components: Used to avoid external CSS File.And Create CSS directly in JSX file.</br>
+2.Material-UI: Used to add icons in the clone webite.</br>
+3.ImgBB : This is not a library. I used this website to host image and create image hosting link.</br>
 
 Steps Taken To create this Website:
 
